@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/drawable/empty_bac.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/drawable/next_btn_shape.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/drawable/share_shape.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/drawable/timeout_btn_shape.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_category.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_dashboard1.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_dashboard2.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_dashboard3.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_dashboard4.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_dashboard5.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_news1.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_option.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_singin.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_testing.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_web_view.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/activity_won.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/entertainmentfragment.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/healthfragment.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/homefragment.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/layout_item.xml" value="0.264" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/sciencefragment.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/sportsfragment.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/technologyfragment.xml" value="0.25" />
+        <entry key="..\:/Users/91639/AndroidStudioProjects/College_Project/app/src/main/res/layout/time_out_dailog.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
